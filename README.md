@@ -12,3 +12,6 @@
       Titanic survival prediction: Using features such as gender, age and passenger class, predict someone survived 1 or deceased 0. 
    
       Model selection & svm
+4.Recommendation system
+      
+      Movie recommendation: IMDB weighted score, NLP, word vector embedding, SVD
